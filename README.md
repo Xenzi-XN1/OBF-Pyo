@@ -8,7 +8,6 @@
 pkg update && pkg upgrade
 pkg install python
 pkg install git
-rm -rf OBF-PY3
 python3 -m pip install rich
 git clone https://github.com/Xenzi-XN1/OBF-Pyo
 cd OBF-Pyo
