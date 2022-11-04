@@ -20,9 +20,9 @@ python PYO.py
 + Mengunci Sebuah File Berbasis Python
 
 # Tampilan awal tools OBF-Pyo
-![img]()
+![img](https://github.com/Xenzi-XN1/OBF-Pyo/blob/main/IMG_20221104_221350.jpg)
 # Hasil Dari Tools OBF-Pyo (PYO)
-![img]()
+![img](https://github.com/Xenzi-XN1/OBF-Pyo/blob/main/IMG_20221104_221006.jpg)
 
 # Thanks to
 ```
