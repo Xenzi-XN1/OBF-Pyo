@@ -10,30 +10,26 @@
   <h4> obfuscate python 3 </h4>
 </div>
 
-# Bagaimana Cara Installnya?
-### Buka Termux Kalian lalu ketik satu persatu seperti dibawah ini
+### Apa itu OBF-Pyo?
+[**OBF-Pyo**](https://github.com/Xenzi-XN1/OBF-Pyo) adalah sebuah tools obfuscate/encode python 3 yang berfungsi untuk menjaga `keamanan` script/tools anda.
+
+### Termux command?
 ```python
-pkg update && pkg upgrade
-pkg install python
-pkg install git
-python3 -m pip install rich
-git clone https://github.com/Xenzi-XN1/OBF-Pyo
-cd OBF-Pyo
-python PYO.py
+$ apt update && apt upgrade
+$ pkg install git
+$ pkg install python
+$ termux-setup-storage
+$ git clone https://github.com/Xenzi-XN1/OBF-Pyo
+$ cd OBF-Pyo
+$ pip install requests
+$ pip install bs4
+$ python run.py
 ```
 
-# Apa saja fungsinya
-+ Obfuscate File Python 3
-+ Mengunci Sebuah File Berbasis Python
+### cara obfuscate/encode script anda?
+- masukan nama file yang inggin di obfuscate/encode, contoh file anda di internet (`/sdcard/namafile.py`) `Termux`.
+- tunggu obfuscate/encode selesai, contoh obfuscate/encode anda selesai ada pesan (`file tersimpan di folder: /sdcard/OBF-Pyo/namafile.py.
+- file yang sudah di obfuscate/encode tersimpan di folder /sdcard/OBF-Pyo
 
-# Tampilan awal tools OBF-Pyo
-![img](https://github.com/Xenzi-XN1/OBF-Pyo/blob/main/IMG_20221104_221350.jpg)
-# Hasil Dari Tools OBF-Pyo (PYO)
-![img](https://github.com/Xenzi-XN1/OBF-Pyo/blob/main/IMG_20221104_221006.jpg)
-
-# Thanks to
-```
-Team Xenzi
-Dark Club
-XTC | Code Team
-```
+### terimakasih kepada team?
+ - `Team-Xenzi`,`XTC-Code`,`XNX-Code`
