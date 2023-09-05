@@ -1,6 +1,14 @@
-# OBF-Pyo
-
-#### OBF-Pyo adalah sebuah Tools Untuk Obfuscate File Python 3 supaya code anda tidak di curi orang [AMAN]
+<div align="center">
+  <img src="img/foto.png">
+  <br>
+  <br>
+  <p>
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Xenzi-XN1/OBF-Pyo">
+    <img src="https://img.shields.io/badge/Version-2.0-brightgreen.svg?style=shields">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Xenzi-XN1/OBF-Pyo">
+  </p>
+  <h4> obfuscate python 3 </h4>
+</div>
 
 # Bagaimana Cara Installnya?
 ### Buka Termux Kalian lalu ketik satu persatu seperti dibawah ini
