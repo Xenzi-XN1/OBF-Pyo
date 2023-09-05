@@ -30,6 +30,6 @@ $ python run.py
 - masukan nama file yang inggin di obfuscate/encode, contoh file anda di internet (`/sdcard/namafile.py`) `Termux`.
 - tunggu obfuscate/encode selesai, contoh obfuscate/encode anda selesai ada pesan (`file tersimpan di folder: /sdcard/OBF-Pyo/namafile.py.
 - file yang sudah di obfuscate/encode tersimpan di folder /sdcard/OBF-Pyo
-
+<img src="IMG/IMG_20230906_004018.jpg">
 ### terimakasih kepada team?
  - `Team-Xenzi`,`XTC-Code`,`XNX-Code`
